@@ -1,0 +1,313 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-10 10:49+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. ID
+#: inc/sps-settings.php:53
+msgid "Basic settings"
+msgstr ""
+
+#. ID
+#: inc/sps-settings.php:60
+msgid "Google Maps API Key"
+msgstr ""
+
+#: inc/sps-settings.php:66
+msgid ""
+"This field may not be required, but it's advised to use a key for better "
+"stability"
+msgstr ""
+
+#. ID
+#: inc/sps-settings.php:72
+msgid "Enable for"
+msgstr ""
+
+#: inc/sps-settings.php:81
+msgid "Select post types you would like to enable whole feature"
+msgstr ""
+
+#. ID
+#: inc/sps-settings.php:87
+msgid "Automatic append enabled"
+msgstr ""
+
+#: inc/sps-settings.php:94
+msgid ""
+"Pick objects from enabled ones for which you would like to automatically "
+"append plugin map"
+msgstr ""
+
+#. ID
+#: inc/sps-settings.php:100
+msgid "Display author info"
+msgstr ""
+
+#: inc/sps-settings.php:106
+msgid ""
+"If you like this plugin, support us! We bet you won't see the difference."
+msgstr ""
+
+#. ID
+#: inc/sps-settings.php:112
+msgid "Additional settings"
+msgstr ""
+
+#. ID
+#: inc/sps-settings.php:119
+msgid "Enable google font"
+msgstr ""
+
+#: inc/sps-settings.php:125
+msgid "Enables usage of custom font \"Quicksand\" in plugin"
+msgstr ""
+
+#. ID
+#: inc/sps-settings.php:131
+msgid "Enable separate pages"
+msgstr ""
+
+#: inc/sps-settings.php:137
+msgid ""
+"If enabled, POI will have own pages with links, otherwise POI will show only "
+"on embedded maps"
+msgstr ""
+
+#. ID
+#: inc/sps-settings.php:143
+msgid "Default map coordinates"
+msgstr ""
+
+#: inc/sps-settings.php:149
+msgid "Starting point for map in POI edit screen"
+msgstr ""
+
+#. ID
+#: inc/sps-settings.php:155 inc/sps-poi.php:208
+msgid "Scan range"
+msgstr ""
+
+#: inc/sps-settings.php:161
+msgid "Enter range (in kilometers) to search POIs for"
+msgstr ""
+
+#. ID
+#: inc/sps-settings.php:167
+msgid "Main point marker"
+msgstr ""
+
+#: inc/sps-settings.php:173
+msgid ""
+"Enter here url of the custom marker image you would like to use for main "
+"point"
+msgstr ""
+
+#. ID
+#: inc/sps-settings.php:179
+msgid "POI marker"
+msgstr ""
+
+#: inc/sps-settings.php:185
+msgid "Enter here url of the custom marker image you would like to use for POI"
+msgstr ""
+
+#: inc/sps-settings.php:192 inc/sps-settings.php:192
+msgid "Super POI Settings"
+msgstr ""
+
+#: inc/sps-settings.php:255
+msgid "Latitude"
+msgstr ""
+
+#: inc/sps-settings.php:256
+msgid "Longitude"
+msgstr ""
+
+#: inc/sps-settings.php:275
+msgid "Want to place map manually?"
+msgstr ""
+
+#: inc/sps-settings.php:278
+msgid "in template"
+msgstr ""
+
+#: inc/sps-settings.php:279
+msgid "in post content"
+msgstr ""
+
+#: inc/sps-settings.php:284
+msgid "Author's website"
+msgstr ""
+
+#: inc/sps-settings.php:299
+msgid "value is not a valid coordinate"
+msgstr ""
+
+#: inc/sps-settings.php:314
+msgid "Range value is not a valid integer"
+msgstr ""
+
+#: inc/sps-settings.php:326
+msgid "Settings successfully saved"
+msgstr ""
+
+#: inc/sps-poi.php:18 inc/sps-poi.php:20
+msgid "Super POI"
+msgstr ""
+
+#: inc/sps-poi.php:19
+msgid "Super POI system"
+msgstr ""
+
+#: inc/sps-poi.php:21
+msgid "Add New POI"
+msgstr ""
+
+#: inc/sps-poi.php:22
+msgid "Add POI"
+msgstr ""
+
+#: inc/sps-poi.php:23
+msgid "Edit"
+msgstr ""
+
+#: inc/sps-poi.php:24
+msgid "Edit POI"
+msgstr ""
+
+#: inc/sps-poi.php:25
+msgid "New POI"
+msgstr ""
+
+#: inc/sps-poi.php:26
+msgid "View"
+msgstr ""
+
+#: inc/sps-poi.php:27
+msgid "View POI"
+msgstr ""
+
+#: inc/sps-poi.php:28
+msgid "Search POI"
+msgstr ""
+
+#: inc/sps-poi.php:29
+msgid "No POI found"
+msgstr ""
+
+#: inc/sps-poi.php:30
+msgid "No POI found in Trash"
+msgstr ""
+
+#: inc/sps-poi.php:31
+msgid "Parent POI"
+msgstr ""
+
+#: inc/sps-poi.php:60 inc/sps-poi.php:92
+msgid "Categories"
+msgstr ""
+
+#: inc/sps-poi.php:61
+msgid "Add New POI Category"
+msgstr ""
+
+#: inc/sps-poi.php:62
+msgid "New POI Category"
+msgstr ""
+
+#: inc/sps-poi.php:91 inc/sps-poi.php:217
+msgid "Location"
+msgstr ""
+
+#: inc/sps-poi.php:97
+msgid "SPS - Location"
+msgstr ""
+
+#: inc/sps-poi.php:119
+msgid "POI Location"
+msgstr ""
+
+#: inc/sps-poi.php:125
+msgid "Super Poi System"
+msgstr ""
+
+#: inc/sps-poi.php:186
+msgid "Custom settings"
+msgstr ""
+
+#: inc/sps-poi.php:191
+msgid "Restrict POI to selected categories"
+msgstr ""
+
+#: inc/sps-poi.php:197
+msgid "Leave empty to display all POI in range"
+msgstr ""
+
+#: inc/sps-poi.php:211
+#, php-format
+msgctxt "placeholder in range field"
+msgid "Default: %s"
+msgstr ""
+
+#: inc/sps-poi.php:214
+msgid "kilometers"
+msgstr ""
+
+#: inc/sps-poi.php:225
+msgid "Search for address..."
+msgstr ""
+
+#: inc/sps-poi.php:297
+msgid "Closest Attractions"
+msgstr ""
+
+#: inc/sps-poi.php:300
+msgid "WP Plugin"
+msgstr ""
+
+#: inc/sps-poi.php:303 inc/sps-poi.php:303
+msgid "Drive to destination"
+msgstr ""
+
+#: inc/sps-poi.php:306
+msgid "Drive"
+msgstr ""
+
+#: inc/sps-poi.php:308 inc/sps-poi.php:309
+msgid "Walk to destination"
+msgstr ""
+
+#: inc/sps-poi.php:311
+msgid "Walk"
+msgstr ""
+
+#. Name of the plugin
+msgid "Super POI System"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Tired of setting the POIs manually for each property? This plugin will make "
+"it for you. Just setup locations and you're done!"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://sopranovillas.com/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Soprano Villas"
+msgstr ""

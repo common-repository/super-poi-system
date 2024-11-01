@@ -1,0 +1,60 @@
+#sps-map > .inside {
+  padding: 0;
+  margin: 0;
+}
+#sps-map .sps-map-search {
+  border-radius: 0;
+  box-shadow: none;
+  margin: 0;
+  border: none;
+  padding: 10px;
+  width: 100%;
+}
+#sps-map .sps-map-categories {
+  width: 100%;
+}
+#sps-map .inside {
+  padding-bottom: 0;
+}
+#sps-map h3 {
+  margin-top: 2em;
+}
+#sps-map input[type="number"] {
+  background-color: white;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+  box-shadow: none;
+  min-height: 32px;
+  font-size: 13px;
+}
+#sps-map .select2-search {
+  margin-bottom: 0;
+}
+#sps-map .select2-search__field {
+  margin-top: 7px;
+}
+#sps-settings h1 small {
+  font-weight: 400;
+  font-size: 0.4em;
+  vertical-align: text-top;
+}
+#sps-settings .input-description {
+  display: block;
+  margin: 5px 0;
+}
+#sps-settings .sps-error {
+  border-color: #dc3232;
+}
+#sps-settings .post-type-checkbox {
+  margin: 0 40px 10px 0;
+  display: inline-block;
+}
+#sps-settings .post-type-checkbox.sps-self {
+  color: #1e8cbe;
+}
+#sps-settings .sps-key-input {
+  width: 90%;
+}
+#sps-settings .sps-text-input {
+  width: 40em;
+}

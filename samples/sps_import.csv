@@ -1,0 +1,6 @@
+"Colosseo valid",41.8902102,12.4922308999,"Rome, Italy","Rome","short description...","Lorem ipsum dolor sit amet enim. Etiam ullamcorper. Suspendisse a pellentesque dui, non felis. Maecenas malesuada elit lectus felis, malesuada ultricies. Curabitur et ligula. Ut molestie a, ultricies porta urna. Vestibulum commodo volutpat a, convallis ac, laoreet enim. Phasellus fermentum in, dolor. Pellentesque facilisis. Nulla imperdiet sit amet magna. Vestibulum dapibus, mauris nec malesuada fames ac turpis velit, rhoncus eu, luctus et interdum adipiscing wisi. Aliquam erat ac ipsum."
+"Forum Romanum two categories valid",41.8924623,"12.4853249999","Via della Salara, Rome, Italy","Rome,Buildings"
+"Forum Romanum without categories valid",41.8924623,"12.4853249999","Via della Salara, Rome, Italy","","short description..."
+"Forum Romanum without address and categories valid",41.8924623,"12.4853249999","","","short descr..."
+"Forum Romanum without lng invalid",41.8924623,"","Via della Salara, Rome, Italy","","short descr..."
+"Forum Romanum without location invalid"
